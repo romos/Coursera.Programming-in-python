@@ -1,5 +1,3 @@
-A python course by Mail.ru Group.
+Coursera lectures "Programming in Python" by Moscow Institute of Physics and Technology & Mail.Ru Group
 
-No programming assignments done since they are not free. I just listened to the lectures.
-
-I'll complete the assignments in one of the next enrollments, maybe... 
+I just listened to the lectures and didn't do any programming assignments. I'll complete them in one of the next enrollments, maybe... 
